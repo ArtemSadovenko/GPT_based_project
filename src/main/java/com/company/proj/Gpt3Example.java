@@ -15,7 +15,7 @@ public class Gpt3Example {
         HttpClient client = HttpClient.newHttpClient();
 
         // Replace with your OpenAI API key
-        String apiKey = "";
+        String apiKey = " ";
 
         // The prompt for the GPT-3 model
         String prompt = "Translate the following English text to French: 'Hello, how are you?'";
